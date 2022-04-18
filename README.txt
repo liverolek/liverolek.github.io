@@ -1,6 +1,7 @@
 Autor strony: Aleksander Kotecki
 
 Strona została wykonana w językach HTML, CSS oraz JavaScript.
+Bardziej szczegółowy opis znajduje się w zakładce "O serwisie".
 
 Strona została opublikowana pod adresem:
 https://liverolek.github.io/
